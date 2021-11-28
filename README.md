@@ -1,4 +1,4 @@
-# Atelier Python
+# Atelier Python (ObTIC)
 
  ## Séance 4 : Traiter des fichiers texte 
 
