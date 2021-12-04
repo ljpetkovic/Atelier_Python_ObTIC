@@ -8,7 +8,7 @@
 
 
 
-Pour accéder au cahier `.ipynb` sur Colab, cliquer sur le lien suivant :
+Pour accéder au cahier sur Colab, cliquer sur le lien suivant :
 
 ```markdown
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljpetkovic/Python_manip_fichiers_texte/HEAD)
