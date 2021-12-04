@@ -11,5 +11,5 @@
 Pour accéder au cahier sur Colab, cliquer sur le lien suivant :
 
 ```markdown
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manip_fichiers_texte/HEAD)
+https://mybinder.org/v2/gh/ljpetkovic/Python_manip_fichiers_texte/f9c9952dc99b6ee9290ccd550430500c5dbb33e9?urlpath=lab%2Ftree%2Fmanip_fichiers_texte.ipynb
 ```
