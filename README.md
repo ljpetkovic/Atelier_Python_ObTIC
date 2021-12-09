@@ -8,4 +8,4 @@
 
 
 
-Pour accéder au cahier sur Colab, cliquer sur le lien suivant : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljpetkovic/Python_manip_fichiers_texte/HEAD)
+Pour accéder au cahier sur Binder, cliquer sur le lien suivant : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljpetkovic/Python_manip_fichiers_texte/HEAD)
